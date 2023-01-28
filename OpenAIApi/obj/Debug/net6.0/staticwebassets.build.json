@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "yCRM/YQD9IBDEWv+OzZwkulp0+rlNuF8rqgpLFJhJsM=",
+  "Source": "OpenAIApi",
+  "BasePath": "_content/OpenAIApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
